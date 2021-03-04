@@ -5,7 +5,7 @@
 #Step 2: Remove correlated predictors
 #Step 3: Run random forest models on splits of the data (by pitch type and pitcher arm side)
 #        to find most important features for building model -
-#Step 4: Make
+#Step 4: Make some summary stats and do analysis
 
 
 
