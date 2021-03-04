@@ -1,0 +1,11 @@
+PitchTypeCode,Description,PitchType
+FA,Generally synonomous with FF,FF
+FF,"Four-Seam Fastball, commonly abbreviated as 4S",FF
+FT,"Two-Seam Fastball, commonly abbreviated as 2S",FT
+SI,Generally synonomous with FT. ,FT
+FC,"Cut fastball, a harder version of slider, typically with shorter break.",FC
+SL,Slider,SL
+CU,Curveball,CU
+KC,"Knuckle Curveball, generally synonmous with CU",CU
+CH,Changeup,CH
+FS,"Splitter, generally synomous with CH",CH
