@@ -1,4 +1,4 @@
-## Player Valuation Project <br/>
+### Player Valuation Project <br/>
 
 ###### The evaluations: <br/>
 [Player Evaluations](https://github.com/joshorenstein/player-valuation/blob/master/Josh%20Orenstein%20Player%20Valuations.pdf) <br/>
